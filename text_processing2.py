@@ -39,6 +39,8 @@ def digits_to_words(input_string):
     return digit_string
 
 
+# print(digits_to_words("No digits here too!?$%"))
+
 """
 컴퓨터 프로그래밍에 많은 명명 규칙이 있지만, 두 규칙이 특히 흔히 쓰입니다.
 첫번째로는, 변수 이름을 'underscore'로 나눠준다거나, (ex. under_score_variable)
